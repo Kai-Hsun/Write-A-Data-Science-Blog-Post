@@ -1,2 +1,2 @@
-# Write-A-Data-Science-Blog-Post
-Data Scientist Nanodegree - Project 1
+# Udacity Data Scientist Nanodegree Project
+Project 1: Writing a Data Scientist Blog Post
